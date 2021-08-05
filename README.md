@@ -1,3 +1,3 @@
 # 5112_final
 
-Repo for CS5112 final
+It has long been a human task to choose the next song in a playlist, but modern algorithms have reached a new level of sophistication in this domain. In this paper we explore a practical real life dataset of Spotify songs. We analyzed the relationships and the patterns occurring between various songs by applying numerous clustering techniques such as k-Means, OPTICS and DBSCAN. In the first part of our experiments we cluster songs based on their predefined attributes with the naive assumption that genres should cluster together. Next, we implement MIPS and ScaNN algorithms to generate a playlist from a list of seed songs. Although modern recommendation systems use machine learning and complex analysis of song attributes, as well as user history, we find that ScaNN and MIPS are able to successfully (although primitively) suggest music of similar taste.
